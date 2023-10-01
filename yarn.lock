@@ -97,9 +97,9 @@
   integrity sha512-RbSSoHliUbnXj3ny0CNFOoxrIDV6SUGyStHsvDqosw6CkdPV8TtWGlfecuK4ToyMEAql6pzNxgCFKanovUzlgQ==
 
 "@types/node@*":
-  version "20.6.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.4.tgz#7882cb8b8adc3106c352dac9c02d4d3ebb95cf3e"
-  integrity sha512-nU6d9MPY0NBUMiE/nXd2IIoC4OLvsLpwAjheoAeuzgvDZA1Cb10QYg+91AF6zQiKWRN5i1m07x6sMe0niBznoQ==
+  version "20.8.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.0.tgz#10ddf0119cf20028781c06d7115562934e53f745"
+  integrity sha512-LzcWltT83s1bthcvjBmiBvGJiiUe84NWRHkw+ZV6Fr41z2FbIzvc815dk2nQ3RAKMuN2fkenM/z3Xv2QzEpYxQ==
 
 "@types/node@^14.14.7":
   version "14.18.63"
@@ -112,9 +112,9 @@
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
 "@types/prompts@^2.0.9":
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/@types/prompts/-/prompts-2.4.4.tgz#dd5a1d41cb1bcd0fc4464bf44a0c8354f36ea735"
-  integrity sha512-p5N9uoTH76lLvSAaYSZtBCdEXzpOOufsRjnhjVSrZGXikVGHX9+cc9ERtHRV4hvBKHyZb1bg4K+56Bd2TqUn4A==
+  version "2.4.5"
+  resolved "https://registry.yarnpkg.com/@types/prompts/-/prompts-2.4.5.tgz#9e894d3d644236e88741b75c912c2bb1c7757503"
+  integrity sha512-TvrzGMCwARi2qqXcD7VmvMvfMP3F7JRQpeEHECK0oufRNZInoBqzd8v/1zksKFE5XW8OOGto/5FsDT8lnpvGRA==
   dependencies:
     "@types/node" "*"
     kleur "^3.0.3"
